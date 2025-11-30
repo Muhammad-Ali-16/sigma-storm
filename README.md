@@ -1,4 +1,4 @@
-# Abacus-AI
+# Sigma Storm
 
 Sigma Storm is a web-based project for real-time data visualization and analytics. It features interactive charts, dashboards, and a responsive, user-friendly interface.
 
