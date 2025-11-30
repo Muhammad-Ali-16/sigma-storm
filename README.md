@@ -1,16 +1,16 @@
 # Abacus-AI
 
-Abacus-AI is a chatbot application built using API integration. It allows users to interact with an AI-powered assistant through a simple, user-friendly interface.
+Sigma Storm is a web-based project for real-time data visualization and analytics. It features interactive charts, dashboards, and a responsive, user-friendly interface.
 
 ## Live Demo
-https://abacusai.netlify.app/
+https://sigmastorm.netlify.app/
 
-## Features
-- Chat with an AI-powered bot  
-- Real-time responses via API calls  
-- Clean and responsive interface  
-- Easy to extend and customize  
-
+**Features:**
+- Real-time data visualization
+- Interactive charts and dashboards
+- Responsive and user-friendly interface
+- Easy to extend and customize
+- 
 ## How to Use
 1. Clone or download this repository:  
    ```bash
@@ -28,9 +28,9 @@ https://abacusai.netlify.app/
 5. Open the app in your browser or terminal (depending on your setup) and start chatting with the bot.  
 
 ## Project Files
-- `index.html` or main frontend file — UI for chatting  
+- `index.html` or main frontend file  
 - `app.js` or main script — handles API requests  
-- `style.css` — styling for the chat interface  
+- `style.css` — styling for app  
 
 ## Author
 Muhammad Ali — [GitHub Profile](https://github.com/Muhammad-Ali-16)
